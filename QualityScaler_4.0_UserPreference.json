@@ -7,7 +7,7 @@
     "default_video_extension": ".mp4",
     "default_video_codec": "h264_nvenc",
     "default_blending": "Medium",
-    "default_output_path": "D:\Video\_output",
+    "default_output_path": "D:/Video/_output",
     "default_input_resize_factor": "63",
     "default_output_resize_factor": "100",
     "default_VRAM_limiter": "16"
